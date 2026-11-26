@@ -1,0 +1,35 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Api/">
+    <Project Path="src/Api/EnterpriseERP.Api/EnterpriseERP.Api.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/" />
+  <Folder Name="/src/Modules/Finance/">
+    <Project Path="src/Modules/Finance/EnterpriseERP.Modules.Finance.Contracts/EnterpriseERP.Modules.Finance.Contracts.csproj" />
+    <Project Path="src/Modules/Finance/EnterpriseERP.Modules.Finance/EnterpriseERP.Modules.Finance.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Identity/">
+    <Project Path="src/Modules/Identity/EnterpriseERP.Modules.Identity.Contracts/EnterpriseERP.Modules.Identity.Contracts.csproj" />
+    <Project Path="src/Modules/Identity/EnterpriseERP.Modules.Identity/EnterpriseERP.Modules.Identity.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Inventory/">
+    <Project Path="src/Modules/Inventory/EnterpriseERP.Modules.Inventory.Contracts/EnterpriseERP.Modules.Inventory.Contracts.csproj" />
+    <Project Path="src/Modules/Inventory/EnterpriseERP.Modules.Inventory/EnterpriseERP.Modules.Inventory.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/MasterData/">
+    <Project Path="src/Modules/MasterData/EnterpriseERP.Modules.MasterData.Contracts/EnterpriseERP.Modules.MasterData.Contracts.csproj" />
+    <Project Path="src/Modules/MasterData/EnterpriseERP.Modules.MasterData/EnterpriseERP.Modules.MasterData.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Purchasing/">
+    <Project Path="src/Modules/Purchasing/EnterpriseERP.Modules.Purchasing.Contracts/EnterpriseERP.Modules.Purchasing.Contracts.csproj" />
+    <Project Path="src/Modules/Purchasing/EnterpriseERP.Modules.Purchasing/EnterpriseERP.Modules.Purchasing.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Sales/">
+    <Project Path="src/Modules/Sales/EnterpriseERP.Modules.Sales.Contracts/EnterpriseERP.Modules.Sales.Contracts.csproj" />
+    <Project Path="src/Modules/Sales/EnterpriseERP.Modules.Sales/EnterpriseERP.Modules.Sales.csproj" />
+  </Folder>
+  <Folder Name="/src/Shared/">
+    <Project Path="src/Shared/EnterpriseERP.BuildingBlocks/EnterpriseERP.BuildingBlocks.csproj" />
+    <Project Path="src/Shared/EnterpriseERP.SharedKernel/EnterpriseERP.SharedKernel.csproj" />
+  </Folder>
+</Solution>

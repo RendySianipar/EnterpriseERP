@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Shared\EnterpriseERP.SharedKernel\EnterpriseERP.SharedKernel.csproj" />
+    <ProjectReference Include="..\..\..\Shared\EnterpriseERP.BuildingBlocks\EnterpriseERP.BuildingBlocks.csproj" />
+    <ProjectReference Include="..\EnterpriseERP.Modules.Identity.Contracts\EnterpriseERP.Modules.Identity.Contracts.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
